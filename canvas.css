@@ -1,0 +1,21 @@
+body{
+    background-color:cornflowerblue
+}
+
+#mycanvas{
+    background-color:rgb(218, 41, 28);
+    border: 10px solid rgb(70, 60, 48);
+    margin: 30px;
+}
+
+#seccanvas{
+    background-color: rgb(186, 12, 47);
+    border: 10px solid rgb(70, 60, 48);
+    margin: 30px;
+}
+
+#thicanvas{
+    background-color: rgb(221, 0, 0);
+    border: 10px solid rgb(70, 60, 48);
+    margin: 30px;
+}
